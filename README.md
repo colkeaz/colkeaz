@@ -11,6 +11,7 @@ I am a second-year Computer Science student at Batangas State University - TNEU.
 **Programming Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -23,10 +24,9 @@ I am a second-year Computer Science student at Batangas State University - TNEU.
 
 ### 📂 Highlighted Projects
 
-* **Plague of Danjin** – A Java-based terminal game exploring survival mechanics.
 * **SyncStock** – An inventory management system built with C# and SQL.
+* **Plague of Danjin** – A Java-based terminal game exploring survival mechanics.
 * **Phishing Detection Model** – A machine learning project achieving high accuracy in identifying malicious URLs.
-* **Quizduino** – Award-winning Arduino-based hardware project.
 
 ---
 
@@ -38,4 +38,4 @@ I am a second-year Computer Science student at Batangas State University - TNEU.
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/luke-andre-paala-1a5944177) | [Photography Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/luke-andre-paala-1a5944177/) | [Photography Portfolio](https://www.instagram.com/avp.luan/)
