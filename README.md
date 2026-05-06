@@ -30,7 +30,6 @@ I am a second-year Computer Science student at Batangas State University - TNEU.
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
