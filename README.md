@@ -32,8 +32,10 @@ I am a second-year Computer Science student at Batangas State University - TNEU.
 
 ### 📊 GitHub Stats
 
-![Luke's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=colkeaz&show_icons=true&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=colkeaz&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats
+
+![Luke's GitHub stats](https://github-readme-stats.shion.dev/api?username=colkeaz&show_icons=true&theme=tokyonight&v=2)
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=colkeaz&layout=compact&theme=tokyonight&v=2)
 
 ---
 
