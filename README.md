@@ -12,6 +12,18 @@ I’m a Computer Science student at Batangas State University working toward ML 
 - **[Employee salary prediction](https://github.com/colkeaz/employee-salary-prediction)** — I compared ten regression models for estimating salary from experience, education, age, and job title. The desktop predictor uses ridge regression, with a mean absolute error of about $9,533 on the test set.
 - **[Plague of Danjin](https://github.com/colkeaz/Plague-of-Danjin)** — A survival game built in Java that you can play in your terminal.
 
-**Tools I use** · Python, SQL, pandas, scikit-learn, and Java
+## Tools I use
+
+- **Languages** · Python, SQL, Java, Kotlin, C++, C#, JavaScript, TypeScript
+- **Machine learning and data** · pandas, scikit-learn, Jupyter
+- **Web development** · React, Node.js
+- **Mobile development** · Flutter
+- **Backend services** · Firebase, Supabase
+- **Video editing** · Adobe Premiere Pro
+
+## GitHub stats
+
+![Luke's GitHub activity, including commits, pull requests, and issues](https://github-readme-stats.shion.dev/api?username=colkeaz&show_icons=true&hide_rank=true&custom_title=GitHub%20activity&bg_color=10233F&title_color=A8E6F0&icon_color=A8E6F0&text_color=E6F3FA&border_color=2469A0)
+![Most-used languages in Luke's public repositories](https://github-readme-stats.shion.dev/api/top-langs/?username=colkeaz&layout=compact&card_width=395&custom_title=Most-used%20languages%20in%20public%20repositories&bg_color=10233F&title_color=A8E6F0&text_color=E6F3FA&border_color=2469A0)
 
 <!-- Pokémon sprites sourced from https://github.com/PokeAPI/sprites -->
