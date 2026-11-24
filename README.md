@@ -1,42 +1,17 @@
-# Hi there, I'm Luke Andre Paala 👋
+﻿![Greninja watches the Batangas coast at dusk as Lapras swims offshore](assets/coast.png)
 
-### 🎓 Computer Science Student | 📸 Documentalist | 💻 Full-Stack Developer
+# Luke Andre Paala
 
-I am a second-year Computer Science student at Batangas State University - TNEU. I balance my time between building robust backend systems and capturing stories through a camera lens.
+I’m a Computer Science student at Batangas State University working toward ML systems engineering. I’m interested in how models perform on data they haven’t seen, and outside of code I document stories through photography.
 
----
+[LinkedIn](https://www.linkedin.com/in/lukeandrepaala/) · [Photography](https://www.instagram.com/avp.luan/)
 
-### 🛠️ My Tech Stack
+## Selected projects
 
-**Programming Languages**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **[Search ranking signals](https://github.com/colkeaz/MLInternship/blob/main/work/notebooks/w02_ml_task_framing.ipynb)** — How well can we estimate a page’s average search position for a client we haven’t seen? My FlyRank internship notebook defines the prediction task and measures a baseline on held-out clients.
+- **[Employee salary prediction](https://github.com/colkeaz/employee-salary-prediction)** — I compared ten regression models for estimating salary from experience, education, age, and job title. The desktop predictor uses ridge regression, with a mean absolute error of about $9,533 on the test set.
+- **[Plague of Danjin](https://github.com/colkeaz/Plague-of-Danjin)** — A survival game built in Java that you can play in your terminal.
 
-**Frameworks & Tools**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+**Tools I use** · Python, SQL, pandas, scikit-learn, and Java
 
----
-
-### 📂 Highlighted Projects
-
-* **SyncStock** – An inventory management system built with C# and SQL.
-* **Plague of Danjin** – A Java-based terminal game exploring survival mechanics.
-* **Phishing Detection Model** – A machine learning project achieving high accuracy in identifying malicious URLs.
-
----
-
-
-### 📊 GitHub Stats
-
-![Luke's GitHub stats](https://github-readme-stats.shion.dev/api?username=colkeaz&show_icons=true&theme=tokyonight&v=2)
-![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=colkeaz&layout=compact&theme=tokyonight&v=2)
-
----
-
-### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/luke-andre-paala-1a5944177/) | [Photography Portfolio](https://www.instagram.com/avp.luan/)
+<!-- Pokémon sprites sourced from https://github.com/PokeAPI/sprites -->
