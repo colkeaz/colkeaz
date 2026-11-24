@@ -19,7 +19,7 @@ I’m a Computer Science student at Batangas State University working toward ML 
 - **Web development** · React, Node.js
 - **Mobile development** · Flutter
 - **Backend services** · Firebase, Supabase
-- **Video editing** · Adobe Premiere Pro
+- **Multimedia editing** · Adobe Premiere Pro, Adobe Lightroom Classic
 
 ## GitHub stats
 
